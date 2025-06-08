@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "spexup";
+  src:
+    url("./spexup.eot") format("truetype"),
+    url("./spexup.ttf") format("truetype"),
+    url("./spexup.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="spexup-"],
+[class*=" spexup-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "spexup" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.spexup-linkedin:before {
+  content: "\e90c";
+}
+.spexup-dribbble:before {
+  content: "\e90d";
+}
+.spexup-facebook:before {
+  content: "\e90e";
+}
+.spexup-instagram:before {
+  content: "\e90f";
+}
+.spexup-Threads:before {
+  content: "\e910";
+}
+.spexup-X:before {
+  content: "\e911";
+}
+.spexup-youtube:before {
+  content: "\e912";
+}
+.spexup-code-circle:before {
+  content: "\e900";
+}
+.spexup-arrow_left:before {
+  content: "\e901";
+}
+.spexup-arrow_right:before {
+  content: "\e902";
+}
+.spexup-arrow_up-right:before {
+  content: "\e903";
+}
+.spexup-brain:before {
+  content: "\e904";
+}
+.spexup-branching_horizontal:before {
+  content: "\e905";
+}
+.spexup-laptop_code:before {
+  content: "\e906";
+}
+.spexup-linear_magicpen:before {
+  content: "\e907";
+}
+.spexup-mind_map:before {
+  content: "\e908";
+}
+.spexup-phone_code:before {
+  content: "\e909";
+}
+.spexup-play:before {
+  content: "\e90a";
+}
+.spexup-scanning:before {
+  content: "\e90b";
+}

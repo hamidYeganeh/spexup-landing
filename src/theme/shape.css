@@ -1,0 +1,8 @@
+@tailwind base;
+
+@layer base {
+  :root {
+    /* BORDER RADIUS */
+    --radius: 20px;
+  }
+}

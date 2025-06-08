@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Neon";
+  font-weight: 700;
+  font-style: normal;
+  src: url("./Neon-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Neon";
+  font-weight: 800;
+  font-style: normal;
+  src: url("./Neon-ExtraBold.ttf") format("truetype");
+}
